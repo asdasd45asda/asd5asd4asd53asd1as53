@@ -1,11 +1,12 @@
-[
+
+  
   {
     "ID": 1,
     "CheatName": "Zula Vip Hack 1.0",
     "Status1": "Undetected",
     "Process": "zula.exe",
     "Author": "AlwaysCheats"
- },
+  },
   {
     "ID": 2,
     "CheatName": "CSGO Vip Hack 1.0",
@@ -20,4 +21,3 @@
     "Process": "valorant.exe",
     "Author": "AlwaysCheats"
   }
-]
