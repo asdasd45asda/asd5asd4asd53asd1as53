@@ -1,27 +1,27 @@
 [
   {
-"user": {
-    "ID": 1,
-    "CheatName": "Zula Vip Hack 1.0",
-    "Status": "Undetected",
-    "Process": "zula.exe",
-    "Author": "AlwaysCheats"
-}
- },
+    "Zula": {
+      "CheatName": "Zula Vip Hack 1.0",
+      "Status": "Undetected",
+      "Process": "zula.exe",
+      "Author": "AlwaysCheats"
+    }
+  },
   {
-    "ID": 2,
-    "CheatName": "CSGO Vip Hack 1.0",
-    "Status": "Dedected",
-    "Process": "csgo.exe",
-    "Author": "AlwaysCheats"
+    "Csgo": {
+      "CheatName": "CSGO Vip Hack 1.0",
+      "Status": "Dedected",
+      "Process": "csgo.exe",
+      "Author": "AlwaysCheats"
+    }
     },
   {
-    "ID": 3,
-    "CheatName": "Valo Vip Hack 1.0",
-    "Status": "Uptading",
-    "Process": "valorant.exe",
-    "Author": "AlwaysCheats"
-  }
+    "Valo": {
+      "CheatName": "Valo Vip Hack 1.0",
+      "Status": "Uptading",
+      "Process": "valorant.exe",
+      "Author": "AlwaysCheats"
+    }
+    }
 ]
-
 
