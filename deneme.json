@@ -1,80 +1,23 @@
-{
-    "success": true,
-    "user": {
-        "about": "",
-        "activity_visible": true,
-        "alert_optout": [],
-        "allow_post_profile": "members",
-        "allow_receive_news_feed": "everyone",
-        "allow_send_personal_conversation": "members",
-        "allow_view_identities": "everyone",
-        "allow_view_profile": "everyone",
-        "avatar_urls": {
-            "o": "https://alwayscheats.com/data/avatars/o/0/630.jpg?1688505442",
-            "h": "https://alwayscheats.com/data/avatars/h/0/630.jpg?1688505442",
-            "l": "https://alwayscheats.com/data/avatars/l/0/630.jpg?1688505442",
-            "m": "https://alwayscheats.com/data/avatars/m/0/630.jpg?1688505442",
-            "s": "https://alwayscheats.com/data/avatars/s/0/630.jpg?1688505442"
-        },
-        "can_ban": false,
-        "can_converse": false,
-        "can_edit": false,
-        "can_follow": false,
-        "can_ignore": false,
-        "can_post_profile": false,
-        "can_view_profile": true,
-        "can_view_profile_posts": true,
-        "can_warn": false,
-        "content_show_signature": true,
-        "creation_watch_state": "watch_no_email",
-        "custom_fields": {
-            "skype": "",
-            "facebook": "",
-            "twitter": ""
-        },
-        "custom_title": "",
-        "email": "adiscord625@gmail.com",
-        "email_on_conversation": false,
-        "gravatar": "",
-        "interaction_watch_state": "watch_no_email",
-        "is_admin": true,
-        "is_discouraged": false,
-        "is_moderator": true,
-        "is_staff": true,
-        "is_super_admin": true,
-        "last_activity": 1688639553,
-        "location": "",
-        "message_count": 0,
-        "profile_banner_urls": {
-            "l": "https://alwayscheats.com/data/profile_banners/l/0/630.jpg?1688631982",
-            "m": "https://alwayscheats.com/data/profile_banners/m/0/630.jpg?1688631982"
-        },
-        "push_on_conversation": true,
-        "push_optout": [],
-        "question_solution_count": 0,
-        "reaction_score": 0,
-        "receive_admin_email": false,
-        "register_date": 1687896846,
-        "secondary_group_ids": [
-            4,
-            12,
-            17
-        ],
-        "show_dob_date": false,
-        "show_dob_year": false,
-        "signature": "",
-        "timezone": "Europe/Moscow",
-        "trophy_points": 0,
-        "usa_tfa": false,
-        "use_tfa": false,
-        "user_group_id": 3,
-        "user_id": 630,
-        "user_state": "valid",
-        "user_title": "Founder",
-        "username": "aReS",
-        "view_url": "https://alwayscheats.com/members/ares.630/",
-        "visible": true,
-        "vote_score": 0,
-        "website": ""
-    }
-}
+[
+  {
+    "ID": 1,
+    "CheatName": "Zula Vip Hack 1.0",
+    "Status1": "Undetected",
+    "Process": "zula.exe",
+    "Author": "AlwaysCheats"
+ },
+  {
+    "ID": 2,
+    "CheatName": "CSGO Vip Hack 1.0",
+    "Status": "Dedected",
+    "Process": "csgo.exe",
+    "Author": "AlwaysCheats"
+    },
+  {
+    "ID": 3,
+    "CheatName": "Valo Vip Hack 1.0",
+    "Status": "Uptading",
+    "Process": "valorant.exe",
+    "Author": "AlwaysCheats"
+  }
+]
