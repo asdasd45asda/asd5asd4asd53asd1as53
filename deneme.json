@@ -8,19 +8,17 @@
     
   },
   {
-    "Csgo": {
       "CheatName": "CSGO Vip Hack 1.0",
       "Status": "Dedected",
       "Process": "csgo.exe",
       "Author": "AlwaysCheats"
-    }
+    
     },
   {
-    "Valo": {
       "CheatName": "Valo Vip Hack 1.0",
       "Status": "Uptading",
       "Process": "valorant.exe",
       "Author": "AlwaysCheats"
-    }
+    
     }
 ]
