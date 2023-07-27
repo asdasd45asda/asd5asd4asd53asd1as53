@@ -1,4 +1,6 @@
-  if($_POST)
+
+<?php
+if($_POST)
    {
         $adi= $_POST["adi"];
         $soyadi= $_POST["soyadi"];
@@ -16,3 +18,4 @@ else
 {
 echo "eğer url'ye biri dışarıdan girerse bu ekranı yazdırın";
 }
+  ?>
